@@ -1,0 +1,68 @@
+[
+    {
+        "title": "【AI绘画】最佳人物模型训练！保姆式LoRA模型训练教程 一键包发布",
+        "author": "秋葉aaaki",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/202305201557914.png"
+        ],
+        "desc": "",
+        "type": "video",
+        "tags": [],
+        "link": "https://www.bilibili.com/video/BV1fs4y1x7p2"
+    },
+    {
+        "title": "【全网最细lora模型训练新手入门】这时长？你没看错。还教不会的话，我只能说，师弟/妹，仙缘已了，你下山去吧！",
+        "author": "朱尼酱",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/202305201559550.png"
+        ],
+        "desc": "",
+        "type": "video",
+        "tags": [],
+        "link": "https: //www.bilibili.com/video/BV1GP411U7fK"
+    },
+    {
+        "title": "超简单真人lora脸型训练教程！",
+        "author": "娜乌斯嘉",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/202305201607326.png"
+        ],
+        "desc": "",
+        "type": "video",
+        "tags": [],
+        "link": "https://www.bilibili.com/video/BV1to4y1x7Bw"
+    },
+    {
+        "title": "【AI绘画】《LORA模型训练超入门级教程》-- 人人都可以当炼金术士",
+        "author": "包子SAMA_",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/20230515182227.png"
+        ],
+        "desc": "本教使用ChatGPT进行辅助编写，部分知识点根据ChatGPT提供的解释进行归纳总结，如有描述不恰当的地方请合理指出，部分观点参考了UP主 [秋葉aaaki] [青龙圣者] [Mr_日天]，以下内容是通过本人自身理解并总结编写出的，同时也是初步接触训练模型，主要是以美术视角出发来进行讲解，目的就是可以让不理解训练概念和代码指令的小伙伴更容易上手Lora模型训练。 （如有问题欢迎大家一起讨论，知识探索的进步脚步终将永不停止。）",
+        "type": "article",
+        "tags": [],
+        "link": "https://www.bilibili.com/read/cv22357579"
+    },
+    {
+        "title": "关于lora训练的一切，常见问题及报错",
+        "author": "天鸣大人",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/202305201609988.png"
+        ],
+        "desc": "部分网络搜集和自己的经验，有说错的地方请指正，会不断修正，解决方法不一定对每个人有效，仅供参考，介于目前lora训练教程都是各执一词，说法很多，让人迷惑，此篇仅供参考。",
+        "type": "article",
+        "tags": [],
+        "link": "https://www.bilibili.com/read/cv22909933"
+    },
+    {
+        "title": "喂饭级Lora绘图模型训练教程",
+        "author": "GamersRay",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/202305201609988.png"
+        ],
+        "desc": "好久没更新专栏和视频了, 玩sovits比较多, 因为这段时间各种新插件都陆续成型问世, 已经慢慢走向稳定出图了, 但是我的时间和精力已经跟不上新玩具的发布速度了, 我想等大伙玩明白了再去玩(摆烂)",
+        "type": "article",
+        "tags": [],
+        "link": "https://www.bilibili.com/read/cv22909933"
+    }
+]
