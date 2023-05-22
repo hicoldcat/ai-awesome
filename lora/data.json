@@ -1,5 +1,27 @@
 [
     {
+        "title": "【AI绘画进阶篇】（手把手教你炼丹）喂饭级LoRA模型训练教程(上)",
+        "author": "好奇漫步",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/20230522105440.png"
+        ],
+        "desc": "本篇文章的目的就是私人订制（训练）一个专属于你自己的LoRA，可以是你自己，也可以是你身边的人，也可以是游戏人物、一件物品等等。然后使用训练出来的LoRA可以让Ai绘画出来的人完全像你训练的人、画出的物品像训练的物品。",
+        "type": "article",
+        "tags": [],
+        "link": "https://www.bilibili.com/read/cv23640309"
+    },
+    {
+        "title": "【AI绘画进阶篇】（手把手教你炼丹）喂饭级LoRA模型训练教程(下)",
+        "author": "好奇漫步",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/20230522105440.png"
+        ],
+        "desc": "本篇文章的目的就是私人订制（训练）一个专属于你自己的LoRA，可以是你自己，也可以是你身边的人，也可以是游戏人物、一件物品等等。然后使用训练出来的LoRA可以让Ai绘画出来的人完全像你训练的人、画出的物品像训练的物品。",
+        "type": "article",
+        "tags": [],
+        "link": "https://www.bilibili.com/read/cv23684137"
+    },
+    {
         "title": "【AI绘画】最佳人物模型训练！保姆式LoRA模型训练教程 一键包发布",
         "author": "秋葉aaaki",
         "cover": [
