@@ -33,6 +33,28 @@
         "link": "https://www.bilibili.com/read/cv23572456"
     },
     {
+        "title": "[AI绘图]一些lora模型训练心得",
+        "author": "赫亚尔晨的温室",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/20230523020529.png"
+        ],
+        "desc": "",
+        "type": "article",
+        "tags": [],
+        "link": "https://zhuanlan.zhihu.com/p/616837063"
+    },
+    {
+        "title": "Stable Diffusion Lora locon loha训练参数设置",
+        "author": "凌璃",
+        "cover": [
+            "https://hicoldcat.oss-cn-hangzhou.aliyuncs.com/img/20230523020811.png"
+        ],
+        "desc": "",
+        "type": "article",
+        "tags": [],
+        "link": "https://zhuanlan.zhihu.com/p/618758020"
+    },
+    {
         "title": "【AI绘画】最佳人物模型训练！保姆式LoRA模型训练教程 一键包发布",
         "author": "秋葉aaaki",
         "cover": [
